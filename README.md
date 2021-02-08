@@ -58,6 +58,7 @@ Push your changes.
 ### Step 4: Create a pull request
 
 1. In your forked GitHub repo, choose **New pull request**.
+![Image of New Pull Request](images/newpullrequest.png)
 1. On the left side of the comparison (**base**), select **USER_ID/amazon-codeguru-reviewer-sample-app**, where `USER_ID` is your GitHub user ID. Leave the branch at **master**.
 1. On the right side of the comparison (**compare**), change the branch to **dev**. The branches should be showing as **Able to merge**. ![Image of compare view](images/compare.png)
 1. Choose **Create pull request** and, again, **Create pull request**.
@@ -66,7 +67,7 @@ Push your changes.
 
 ### Step 5: Review recommendations
 
-After a few minutes, CodeGuru Reviewer will issue recommendations on the same GitHub page where the pull request was created. You can check the status of the code review in the **Code reviews** view of the CodeGuru Reviewer console.
+After a few minutes, CodeGuru Reviewer will issue recommendations on the same GitHub page where the pull request was created. You can check the status of the code review in the [Code reviews](https://console.aws.amazon.com/codeguru/reviewer/?region=us-east-1#/codereviews) view of the CodeGuru Reviewer console.
 
 ![Image of pending status](images/pending.png)
 
