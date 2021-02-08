@@ -17,7 +17,7 @@ Log in to GitHub and choose **Fork** to fork this example app to your GitHub acc
 ### Step 2: Associate the forked repo
 
 1. Log in to the [CodeGuru dashboard](https://console.aws.amazon.com/codeguru/home?region=us-east-1).
-1. Choose **Associate repository**.
+1. Choose **Repositories** -> **Associate repository** from the left navigation pane.
 1. Make sure **GitHub** is selected, and then choose **Connect to GitHub**.
 1. To allow CodeGuru Reviewer to access your account, choose **Authorize aws-codesuite**. If prompted, confirm your GitHub password.
 1. Select the **amazon-codeguru-reviewer-sample-app** repository, and then choose **Associate**.
